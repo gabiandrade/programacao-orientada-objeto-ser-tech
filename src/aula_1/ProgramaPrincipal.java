@@ -1,11 +1,11 @@
-import java.util.Scanner;
+package aula_1;
 
 public class ProgramaPrincipal {
 
     static void main() {
 
         //A criação do objeto
-        /*Filme orgulhoEpreconceito = new Filme();
+        /*aula_1.Filme orgulhoEpreconceito = new aula_1.Filme();
         orgulhoEpreconceito.setNome("Orgulho e Preconceito");
         orgulhoEpreconceito.setDiretor("Thiago Manhães");
         orgulhoEpreconceito.setDuracao(120);

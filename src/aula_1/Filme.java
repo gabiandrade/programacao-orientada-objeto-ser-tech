@@ -1,3 +1,5 @@
+package aula_1;
+
 public class Filme {
     //modificador tipo nomeAtributo
     private String nome;
@@ -68,7 +70,7 @@ public class Filme {
 
     @Override
     public String toString() {
-        return "Filme{" +
+        return "aula_1.Filme{" +
                 "nome='" + nome + '\'' +
                 ", duracao=" + duracao +
                 ", diretor='" + diretor + '\'' +
