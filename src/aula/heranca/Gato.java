@@ -15,7 +15,7 @@ public class Gato extends Animal implements AnimalInterface {
 
     @Override
     public void comer() {
-
+        System.out.printf("%s comendo wiskas sache", nome);
     }
 
     @Override

@@ -1,7 +1,5 @@
 package aula.heranca;
 
-import jdk.swing.interop.SwingInterOpUtils;
-
 public abstract class AnimalVoadorConcreto extends Animal {
 
     private double velocidade;
